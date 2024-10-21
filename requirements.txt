@@ -1,1 +1,6 @@
+streamlit
+typing-extensions
 langgraph
+python-dotenv
+langchain-aws
+langchain-google-genai
